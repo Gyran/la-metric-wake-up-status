@@ -1,0 +1,16 @@
+{
+  "name": "la-metric-can-i-wake-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.mjs",
+    "start": "node index.mjs"
+  },
+  "author": "Gustav Ahlberg",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
