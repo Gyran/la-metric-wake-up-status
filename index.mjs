@@ -8,12 +8,14 @@ const Icons = {
   Orange: 842,
   White: 909,
   Black: 1358,
+  Yellow: 1536,
+  Pink: 42094,
 };
 
 const Intervals = [
   { from: 0, to: 7, icon: Icons.Red },
   { from: 7, to: 8, icon: Icons.Orange },
-  { from: 8, to: 19, icon: Icons.Green },
+  { from: 8, to: 19, icon: Icons.Pink },
   { from: 19, to: 24, icon: Icons.Red },
 ];
 
