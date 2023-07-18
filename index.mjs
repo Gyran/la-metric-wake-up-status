@@ -13,9 +13,9 @@ const Icons = {
 };
 
 const Intervals = [
-  { from: 0, to: 8, icon: Icons.Red },
-  { from: 8, to: 9, icon: Icons.Orange },
-  { from: 9, to: 19, icon: Icons.Pink },
+  { from: 0, to: 7, icon: Icons.Red },
+  { from: 7, to: 8, icon: Icons.Orange },
+  { from: 8, to: 19, icon: Icons.Pink },
   { from: 19, to: 24, icon: Icons.Red },
 ];
 
