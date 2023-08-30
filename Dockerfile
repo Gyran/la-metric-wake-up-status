@@ -5,7 +5,7 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm ci --omit=dev
 
-COPY src/*.mjs .
+COPY src/*.mjs ./src
 
 EXPOSE 3000
 
