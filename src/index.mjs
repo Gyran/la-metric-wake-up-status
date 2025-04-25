@@ -15,14 +15,14 @@ const Icons = {
 
 const SchoolDayIntervals = [
   { from: '00:00', to: '06:30', icon: Icons.Red },
-  { from: '06:30', to: '19:30', icon: Icons.Pink },
+  { from: '06:30', to: '19:00', icon: Icons.Pink },
   { from: '19:00', to: '23:59', icon: Icons.Red },
 ];
 const WeekendIntervals = [
-  { from: '00:00', to: '07:00', icon: Icons.Red },
-  { from: '07:00', to: '08:00', icon: Icons.Orange },
-  { from: '08:00', to: '19:00', icon: Icons.Pink },
-  { from: '19:00', to: '23:59', icon: Icons.Red },
+  { from: '00:00', to: '07:30', icon: Icons.Red },
+  { from: '07:30', to: '08:30', icon: Icons.Orange },
+  { from: '08:30', to: '20:00', icon: Icons.Pink },
+  { from: '20:00', to: '23:59', icon: Icons.Red },
 ];
 
 const Intervals = {
